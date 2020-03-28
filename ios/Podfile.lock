@@ -1,0 +1,22 @@
+PODS:
+  - bidirectional_scroll_view (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - bidirectional_scroll_view (from `.symlinks/plugins/bidirectional_scroll_view/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  bidirectional_scroll_view:
+    :path: ".symlinks/plugins/bidirectional_scroll_view/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  bidirectional_scroll_view: 5d30a418a3f51a24633df3a713cfb2a52b57c998
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 083258d7f5e80b42ea9bfee905fe93049bc04c64
+
+COCOAPODS: 1.8.4
